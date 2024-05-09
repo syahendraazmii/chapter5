@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: 0e7a0979ae6cf6a44a7ceeba7ae16eec
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 3120187163253679184
+    second: Hydraulics|DoorRoll1Action
+  - first:
+      74: 4008912846824909087
+    second: Hydraulics|DoorRoll2Action
+  - first:
+      74: -3186790322461041288
+    second: Hydraulics|Hydraulics2Action
+  - first:
+      74: -4782281362941636514
+    second: Hydraulics|HydraulicsAction
+  - first:
+      74: 7365576897679317874
+    second: Sink1|DoorRoll1Action
+  - first:
+      74: 2142261578454369087
+    second: Sink1|DoorRoll2Action
+  - first:
+      74: -2097177161710826312
+    second: Sink1|Hydraulics2Action
+  - first:
+      74: 4386991274439278891
+    second: Sink1|HydraulicsAction
+  - first:
+      74: -7600085301888212995
+    second: Sinkl2|DoorRoll1Action
+  - first:
+      74: -3241253718964274227
+    second: Sinkl2|DoorRoll2Action
+  - first:
+      74: -6090157626046729887
+    second: Sinkl2|Hydraulics2Action
+  - first:
+      74: -5186630716626475794
+    second: Sinkl2|HydraulicsAction
+  - first:
+      74: 6607833618842972105
+    second: DoorRoll1|DoorRoll1Action
+  - first:
+      74: 1808442348261282596
+    second: DoorRoll1|DoorRoll2Action
+  - first:
+      74: 3241254781280642113
+    second: DoorRoll1|Hydraulics2Action
+  - first:
+      74: -7242552228033683542
+    second: DoorRoll1|HydraulicsAction
+  - first:
+      74: 8322672369759043089
+    second: DoorRoll2|DoorRoll1Action
+  - first:
+      74: -1054830079353233593
+    second: DoorRoll2|DoorRoll2Action
+  - first:
+      74: -6850674996434889088
+    second: DoorRoll2|Hydraulics2Action
+  - first:
+      74: 5170221575336404146
+    second: DoorRoll2|HydraulicsAction
+  - first:
+      74: 1963276180371350676
+    second: Hydraulics2|DoorRoll1Action
+  - first:
+      74: -320386412932885508
+    second: Hydraulics2|DoorRoll2Action
+  - first:
+      74: -2781516342210130863
+    second: Hydraulics2|Hydraulics2Action
+  - first:
+      74: -3281186731370731385
+    second: Hydraulics2|HydraulicsAction
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Frame_Black
+    second: {fileID: 2100000, guid: 6cca7eefd69c51b45b1a1af6f645c707, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Frame_Blue
+    second: {fileID: 2100000, guid: 8efefbc253403314dada2f1d5680bf1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Frame_Crem
+    second: {fileID: 2100000, guid: d6e0c7e98abe5b447ab1f1dd215ead45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Frame_White
+    second: {fileID: 2100000, guid: d06ee1a1b4a2cea419a4024a305f0339, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Glass
+    second: {fileID: 2100000, guid: 66cbf4584783a734fb634a6c83af87a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Hydraulics
+    second: {fileID: 2100000, guid: e53a32ea8e4ce31479cdb436a4cc455b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Hydraulics2
+    second: {fileID: 2100000, guid: 95fafa31f44388541b6063997d17261c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_RollDoor
+    second: {fileID: 2100000, guid: 97fc72a3e14c8934f85a773adbaca407, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Sink_Black
+    second: {fileID: 2100000, guid: a6951738dfb2823438ea01baf78de4f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Sink_Red
+    second: {fileID: 2100000, guid: ccc5f7fbe1438e540a10fdc8009cb825, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Text_Blue
+    second: {fileID: 2100000, guid: ddf5fbcc9a5008b4e95dd2b9a6f2f1bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Text_White
+    second: {fileID: 2100000, guid: b825d34fe7f901d4e9e58db4f4891482, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Button
+    second: {fileID: 2100000, guid: 8dcb30af9f0943342a8fc40002199c51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_ComputerBase
+    second: {fileID: 2100000, guid: ac5cead388e77c141a344e4c9c8a4fda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_RedStick
+    second: {fileID: 2100000, guid: 6343d8809f7dc9048afa26239a1dcca6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Screen
+    second: {fileID: 2100000, guid: 2ef25913cf7f73b4383fd36f280ac01a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Tube
+    second: {fileID: 2100000, guid: dc80dbdf1dcf92249bcf71045b16b020, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: komputer rangka
+    second: {fileID: 2800000, guid: 00c505f2b5fc5114d8d5aadd9c651630, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: layar com
+    second: {fileID: 2800000, guid: 60ccc5522e0b8874a99291c38e98296d, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
