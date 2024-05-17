@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.blendernodesgraph.core": {
+      "version": "file:D:/PROYEK AKHIR/blender-nodes-subgraph-main/blender-nodes-subgraph-main",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,

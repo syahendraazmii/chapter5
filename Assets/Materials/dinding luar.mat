@@ -8,16 +8,16 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: dinding luar
-  m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
-  m_ValidKeywords:
+  m_Shader: {fileID: -6465566751694194690, guid: 7668961af53a7dc42b6a3050d28a70b8,
+    type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords:
   - _NORMALMAP
-  m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 1
   m_CustomRenderQueue: -1
-  stringTagMap:
-    RenderType: Opaque
+  stringTagMap: {}
   disabledShaderPasses: []
   m_SavedProperties:
     serializedVersion: 3
@@ -66,6 +66,22 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _dindingluardalamCustomFunction_96ed8c415e2a9807cce5d6400ca8bf75_Image51568_14:
+        m_Texture: {fileID: 2800000, guid: d12cebf69e276074b988dc97c09cf80e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _dindingluardalamCustomFunction_96ed8c415e2a9807cce5d6400ca8bf75_Image51570_16:
+        m_Texture: {fileID: 2800000, guid: aaadb712556969c40ba65b7fe112796f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _dindingluardalamCustomFunction_96ed8c415e2a9807cce5d6400ca8bf75_Image51572_17:
+        m_Texture: {fileID: 2800000, guid: 02ea98d0ef2c6d64682dabb6fce7b46e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _dindingluardalamCustomFunction_96ed8c415e2a9807cce5d6400ca8bf75_Image51574_15:
+        m_Texture: {fileID: 2800000, guid: f8fc1028f8c92c04c8543742ab56d6ca, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -98,8 +114,11 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
+    - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
+    - _Rotate: 0
+    - _Scale: -25.82
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -113,6 +132,7 @@ Material:
     - _Color: {r: 0, g: 0, b: 0, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+    - _TileXY: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &1363653630798669750
 MonoBehaviour:

@@ -1,0 +1,112 @@
+{
+    "nodeDatas": [
+        {
+            "location": [
+                0.0,
+                0.0
+            ],
+            "name": "NULL.ShaderNodeOutputMaterial.Material Output"
+        },
+        {
+            "location": [
+                -300.0,
+                0.0
+            ],
+            "name": "NULL.ShaderNodeBsdfPrincipled.Principled BSDF"
+        },
+        {
+            "connections0Name": [
+                "Normal"
+            ],
+            "connections0NodeName": [
+                "ShaderNodeBsdfPrincipled.Principled BSDF"
+            ],
+            "location": [
+                -600.0,
+                -300.0
+            ],
+            "name": "ShaderNodeNormalMap.Normal Map",
+            "properties": [
+                "1.0",
+                "0.5",
+                "0.5",
+                "1.0",
+                "1.0"
+            ]
+        },
+        {
+            "location": [
+                -600.0,
+                -600.0
+            ],
+            "name": "NULL.ShaderNodeDisplacement.Displacement"
+        },
+        {
+            "connections0Name": [
+                "Height"
+            ],
+            "connections0NodeName": [
+                "ShaderNodeDisplacement.Displacement"
+            ],
+            "connections1Name": [],
+            "connections1NodeName": [],
+            "location": [
+                -900.0,
+                -600.0
+            ],
+            "name": "ShaderNodeTexImage.Image Texture.004"
+        },
+        {
+            "connections0Name": [
+                "Color"
+            ],
+            "connections0NodeName": [
+                "ShaderNodeNormalMap.Normal Map"
+            ],
+            "connections1Name": [],
+            "connections1NodeName": [],
+            "location": [
+                -900.0,
+                -300.0
+            ],
+            "name": "ShaderNodeTexImage.Image Texture.003"
+        },
+        {
+            "connections0Name": [
+                "Roughness"
+            ],
+            "connections0NodeName": [
+                "ShaderNodeBsdfPrincipled.Principled BSDF"
+            ],
+            "connections1Name": [],
+            "connections1NodeName": [],
+            "location": [
+                -600.0,
+                300.0
+            ],
+            "name": "ShaderNodeTexImage.Image Texture.001"
+        },
+        {
+            "connections0Name": [
+                "Base Color"
+            ],
+            "connections0NodeName": [
+                "ShaderNodeBsdfPrincipled.Principled BSDF"
+            ],
+            "connections1Name": [],
+            "connections1NodeName": [],
+            "location": [
+                -600.0,
+                600.0
+            ],
+            "name": "ShaderNodeTexImage.Image Texture"
+        },
+        {
+            "name": "EXTRA",
+            "properties": [
+                "True",
+                "True"
+            ]
+        }
+    ]
+}
